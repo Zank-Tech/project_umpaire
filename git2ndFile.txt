@@ -1,1 +1,2 @@
-hellw this is my second file in git forlder to test it is able to push or not into a git
+hello this is my second file in git forlder to test it is able to push or not into a git....
+i can do i can do i can do i can do i can do i can do i can do i can do... -----> This line is updated while updateing the clone
